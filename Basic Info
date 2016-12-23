@@ -1,0 +1,1 @@
+This DRO uses digital calipers and a comparator circuit interfaced with an Arduino UNO. It uses the two intrrupts to read and decode the protcol from the calipers. I only need two channels for my lathe so the two intertupts on the UNO are good enough for me. Intial code is posted and works with the beadboarded hadrware, I will post schematics and futher details later.
